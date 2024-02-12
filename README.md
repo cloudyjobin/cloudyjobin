@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cloudyjobin/cloudyjobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm [Jobin Jose][website] 👋 💻
+
+I am a platform engineer primarily focused on Azure and Kubernetes, specializing in Infrastructure as Code (IaC) and Continuous Integration/Continuous Deployment (CI/CD) pipelines.
+
+[website]: https://jobinjose.com
