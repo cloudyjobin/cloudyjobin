@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 I am a platform engineer primarily focused on Azure and Kubernetes, specializing in Infrastructure as Code (IaC) and Continuous Integration/Continuous Deployment (CI/CD) pipelines.
 
 [website]: https://jobinjose.com
+
+
+### Connect with me:
+
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/cloudyjobin/cloudyjobin/main/images/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/cloudyjobin/cloudyjobin/main/images/linkedin.svg" />][linkedin]
+<br />
